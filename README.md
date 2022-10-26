@@ -1,5 +1,5 @@
 # RegistrApp_Ocampo_Cartagena2
-Trabajo muy humilde
+Very humble work
 To properly use this application, you must have the following programs for both editing and function:
 
 node: As an event-driven asynchronous JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled simultaneously. After each connection, the callback fires, but if there is no work to be done, Node.js will sleep.
