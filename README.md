@@ -28,7 +28,9 @@ HTTP is a first class citizen in Node.js, designed with streaming and low latenc
 
 Just because Node.js is designed without threads doesn't mean you can't take advantage of multiple cores in your environment. Child processes can be spawned using our child_process.fork() API, and are designed to be easy to communicate with. Built on top of that same interface is the cluster module, which allows you to share sockets between processes to allow load balancing on your cores.
 
+url to download node: https://nodejs.org/en/
+
 ionic services
 
 android studio(coming soon)
-url to download node: https://nodejs.org/en/
+
