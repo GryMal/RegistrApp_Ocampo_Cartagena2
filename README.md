@@ -32,5 +32,5 @@ url to download node: https://nodejs.org/en/
 
 ionic services
 
-android studio(coming soon)
+android studio
 
